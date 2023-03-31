@@ -1,0 +1,4 @@
+.blog{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
